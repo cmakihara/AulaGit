@@ -11,6 +11,8 @@ public class Principal {
 		System.out.println("skjhdaodhop");
 		System.out.println("__________");
 		System.out.println("_33333_");
+		
+		System.out.println("push");
 	}
 
 }
